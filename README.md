@@ -1,2 +1,1 @@
-# toolchain
-Link to the garage tutorial toolchain
+# node-hello-world
